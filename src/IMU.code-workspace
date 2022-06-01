@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "AOG-ESP32-CMPS14-V2",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"array": "cpp",
+			"string": "cpp"
+		}
+	}
+}
